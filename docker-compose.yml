@@ -1,4 +1,5 @@
 #ADS-B Radar im Docker Dokumentation: https://sdr-enthusiasts.gitbook.io/ads-b/
+# .env Datei muss anders als in der Doku beschrieben, im selben Ordner liegen wie die compose Datei
 version: '3.7'
 
 volumes:
